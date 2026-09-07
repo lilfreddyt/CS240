@@ -32,8 +32,8 @@ Reads pixel values and uses them to create an image.
 The programs were tested using normal and boundary cases:
 
 - My name (Fredric)
-- Zero (`00000000`)
-- The largest 8-bit unsigned value
+- Zero
+- The largest unsigned value
 - A negative 8-bit two's-complement value (-5)
 - An image of a smiley face
 
