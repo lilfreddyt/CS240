@@ -12,7 +12,7 @@ Converts characters into their ASCII decimal values.
 
 ### Number Base Converter
 
-Converts numbers between:
+Converts numbers to:
 
 - Binary
 - Decimal
